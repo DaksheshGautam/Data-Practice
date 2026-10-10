@@ -1,0 +1,5 @@
+Model,CVAccuracy,TestAccuracy,BalancedAccuracy,Parameters
+Logistic regression,0.8619047619047618,0.8333333333333334,0.7916666666666666,{'model__C': 10}
+SVM,0.8752380952380954,0.7222222222222222,0.7083333333333333,"{'model__C': 10, 'model__gamma': 'scale', 'model__kernel': 'linear'}"
+Decision tree,0.8485714285714285,0.7777777777777778,0.7916666666666667,"{'model__max_depth': 2, 'model__min_samples_leaf': 1}"
+KNN,0.8628571428571428,0.7777777777777778,0.7916666666666667,"{'model__n_neighbors': 3, 'model__weights': 'uniform'}"
