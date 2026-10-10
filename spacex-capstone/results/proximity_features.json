@@ -1,0 +1,24 @@
+{
+  "Road": {
+    "way_id": "10766563",
+    "tags": {
+      "highway": "unclassified",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Brevard, FL"
+    }
+  },
+  "Coastline": {
+    "way_id": "22322002",
+    "tags": {
+      "natural": "coastline",
+      "source": "PGS"
+    }
+  },
+  "Railway": {
+    "way_id": "96332360",
+    "tags": {
+      "railway": "rail",
+      "service": "spur"
+    }
+  }
+}
