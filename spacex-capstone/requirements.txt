@@ -11,4 +11,6 @@ nbformat>=5.10
 nbclient>=0.10
 ipykernel>=6.29
 reportlab>=4.2
+pymupdf>=1.25
 requests>=2.32
+
