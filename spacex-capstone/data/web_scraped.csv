@@ -1,0 +1,82 @@
+Table,Flight,Date,Booster,LaunchSite,Payload,PayloadMass,Orbit,Customer,LaunchOutcome,LandingOutcome
+0,1,4 June 2010 18:45,F9 v1.0 B0003,"Cape Canaveral , SLC ‑ 40",Dragon Spacecraft Qualification Unit,Unknown,LEO,SpaceX,Success,Failure (parachute)
+0,2,8 December 2010 15:43,F9 v1.0 B0004,"Cape Canaveral , SLC ‑ 40",SpaceX COTS Demo Flight 1 (Dragon C101),Unknown,LEO,NASA ( COTS ),Success,Failure (parachute)
+0,3,22 May 2012 07:44,F9 v1.0 B0005,"Cape Canaveral , SLC ‑ 40",SpaceX COTS Demo Flight 2 (Dragon C102),"525 kg (1,157 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( COTS ),Success,No attempt
+0,4,8 October 2012 00:35,F9 v1.0 B0006,"Cape Canaveral , SLC ‑ 40",SpaceX CRS-1 (Dragon C103),"4,700 kg (10,400 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,No attempt
+0,5,1 March 2013 15:10,F9 v1.0 B0007,"Cape Canaveral , SLC ‑ 40",SpaceX CRS-2 (Dragon C104),"4,877 kg (10,752 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,No attempt
+0,6,29 September 2013 16:00,F9 v1.1 B1003,"Vandenberg , SLC ‑ 4E",CASSIOPE,"500 kg (1,100 lb)",Polar orbit LEO,MDA,Success,Failure (ocean)
+0,7,3 December 2013 22:41,F9 v1.1 B1004,"Cape Canaveral , SLC ‑ 40",SES-8,"3,170 kg (6,990 lb)",GTO,SES,Success,No attempt
+1,8,6 January 2014 22:06,F9 v1.1 B1005,"Cape Canaveral , SLC ‑ 40",Thaicom 6,"3,325 kg (7,330 lb)",GTO,Thaicom,Success,No attempt
+1,9,18 April 2014 19:25,F9 v1.1 B1006,"Cape Canaveral , SLC ‑ 40",SpaceX CRS-3 (Dragon C105),"2,296 kg (5,062 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,Controlled (ocean)
+1,10,14 July 2014 15:15,F9 v1.1 B1007,"Cape Canaveral , SLC ‑ 40",Orbcomm-OG2 -1 (6 satellites),"1,316 kg (2,901 lb)",LEO,Orbcomm,Success,Controlled (ocean)
+1,11,5 August 2014 08:00,F9 v1.1 B1008,"Cape Canaveral , SLC ‑ 40",AsiaSat 8,"4,535 kg (9,998 lb)",GTO,AsiaSat,Success,No attempt
+1,12,7 September 2014 05:00,F9 v1.1 B1011,"Cape Canaveral , SLC ‑ 40",AsiaSat 6,"4,428 kg (9,762 lb)",GTO,AsiaSat,Success,No attempt
+1,13,21 September 2014 05:52,F9 v1.1 B1010,"Cape Canaveral , SLC ‑ 40",SpaceX CRS-4 ( Dragon C106.1 ),"2,216 kg (4,885 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,Failure (ocean)
+2,14,10 January 2015 09:47,F9 v1.1 B1012,"Cape Canaveral , SLC ‑ 40",SpaceX CRS-5 (Dragon C107),"2,395 kg (5,280 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,Failure ( JRTI )
+2,15,11 February 2015 23:03,F9 v1.1 B1013,"Cape Canaveral , SLC ‑ 40",DSCOVR,"570 kg (1,260 lb)",Sun–Earth L 1 insertion,USAF NASA NOAA,Success,Controlled (ocean)
+2,16,2 March 2015 03:50,F9 v1.1 B1014,"Cape Canaveral , SLC ‑ 40",ABS-3A Eutelsat 115 West B,"4,159 kg (9,169 lb)",GTO,ABS Eutelsat,Success,No attempt
+2,17,14 April 2015 20:10,F9 v1.1 B1015,"Cape Canaveral , SLC ‑ 40",SpaceX CRS-6 ( Dragon C108.1 ),"1,898 kg (4,184 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,Failure ( JRTI )
+2,18,27 April 2015 23:03,F9 v1.1 B1016,"Cape Canaveral , SLC ‑ 40",TürkmenÄlem 52°E / MonacoSAT,"4,707 kg (10,377 lb)",GTO,Turkmenistan National Space Agency,Success,No attempt
+2,19,28 June 2015 14:21,F9 v1.1 B1018,"Cape Canaveral , SLC ‑ 40",SpaceX CRS-7 (Dragon C109),"1,952 kg (4,303 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Failure,Precluded (drone ship)
+2,20,22 December 2015 01:29,F9 FT B1019,"Cape Canaveral , SLC ‑ 40",Orbcomm-OG2 -2 (11 satellites),"2,034 kg (4,484 lb)",LEO,Orbcomm,Success,Success ( LZ ‑ 1 )
+3,21,17 January 2016 18:42,F9 v1.1 B1017,"Vandenberg , SLC ‑ 4E",Jason-3,"553 kg (1,219 lb)",LEO,NASA ( LSP ) NOAA CNES,Success,Failure ( JRTI )
+3,22,4 March 2016 23:35,F9 FT B1020,"Cape Canaveral , SLC ‑ 40",SES-9,"5,271 kg (11,621 lb)",GTO,SES,Success,Failure ( OCISLY )
+3,23,8 April 2016 20:43,F9 FT B1021-1,"Cape Canaveral , SLC ‑ 40",SpaceX CRS-8 (Dragon C110.1),"3,136 kg (6,914 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,Success ( OCISLY )
+3,24,6 May 2016 05:21,F9 FT B1022,"Cape Canaveral , SLC ‑ 40",JCSAT-14,"4,696 kg (10,353 lb)",GTO,SKY Perfect JSAT Group,Success,Success ( OCISLY )
+3,25,27 May 2016 21:39,F9 FT B1023-1,"Cape Canaveral , SLC ‑ 40",Thaicom 8,"3,100 kg (6,800 lb)",GTO,Thaicom,Success,Success ( OCISLY )
+3,26,15 June 2016 14:29,F9 FT B1024,"Cape Canaveral , SLC ‑ 40",ABS-2A Eutelsat 117 West B,"3,600 kg (7,900 lb)",GTO,ABS Eutelsat,Success,Failure ( OCISLY )
+3,27,18 July 2016 04:45,F9 FT B1025-1,"Cape Canaveral , SLC ‑ 40",SpaceX CRS-9 (Dragon C111.1),"2,257 kg (4,976 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,Success ( LZ ‑ 1 )
+3,28,14 August 2016 05:26,F9 FT B1026,"Cape Canaveral , SLC ‑ 40",JCSAT-16,"4,600 kg (10,100 lb)",GTO,SKY Perfect JSAT Group,Success,Success ( OCISLY )
+3,N/A,3 September 2016 07:00,F9 FT B1028,"Cape Canaveral , SLC ‑ 40",AMOS-6,"5,500 kg (12,100 lb)",GTO,Spacecom,Precluded (pre-flight failure),Precluded
+4,29,14 January 2017 17:54,F9 FT B1029-1,"Vandenberg , SLC ‑ 4E",Iridium NEXT -1 (10 satellites),"9,600 kg (21,200 lb)",Polar LEO,Iridium Communications,Success,Success ( JRTI )
+4,30,19 February 2017 14:39,F9 FT B1031-1,"Kennedy , LC ‑ 39A",SpaceX CRS-10 (Dragon C112.1),"2,490 kg (5,490 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,Success ( LZ ‑ 1 )
+4,31,16 March 2017 06:00,F9 FT B1030,"Kennedy , LC ‑ 39A",EchoStar 23,"5,600 kg (12,300 lb)",GTO,EchoStar,Success,No attempt
+4,32,30 March 2017 22:27,F9 FT B1021-2,"Kennedy , LC ‑ 39A",SES-10,"5,300 kg (11,700 lb)",GTO,SES,Success,Success ( OCISLY )
+4,33,1 May 2017 11:15,F9 FT B1032-1,"Kennedy , LC ‑ 39A",NROL-76,Classified,LEO,NRO,Success,Success ( LZ ‑ 1 )
+4,34,15 May 2017 23:21,F9 FT B1034-1,"Kennedy , LC ‑ 39A",Inmarsat-5 F4,"6,070 kg (13,380 lb)",GTO,Inmarsat,Success,No attempt
+4,35,3 June 2017 21:07,F9 FT B1035-1,"Kennedy , LC ‑ 39A",SpaceX CRS-11 ( Dragon C106.2 ),"2,708 kg (5,970 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,Success ( LZ ‑ 1 )
+4,36,23 June 2017 19:10,F9 FT B1029-2,"Kennedy , LC ‑ 39A",BulgariaSat-1,"3,669 kg (8,089 lb)",GTO,Bulsatcom,Success,Success ( OCISLY )
+4,37,25 June 2017 20:25,F9 FT B1036-1,"Vandenberg , SLC ‑ 4E",Iridium NEXT -2 (10 satellites),"9,600 kg (21,200 lb)",LEO,Iridium Communications,Success,Success ( JRTI )
+4,38,5 July 2017 23:38,F9 FT B1037-1,"Kennedy , LC ‑ 39A",Intelsat 35e,"6,761 kg (14,905 lb)",GTO,Intelsat,Success,No attempt
+4,39,14 August 2017 16:31,F9 B4 B1039-1,"Kennedy , LC ‑ 39A",SpaceX CRS-12 (Dragon C113.1),"3,310 kg (7,300 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,Success ( LZ ‑ 1 )
+4,40,24 August 2017 18:51,F9 FT B1038-1,"Vandenberg , SLC ‑ 4E",Formosat-5,"475 kg (1,047 lb)",SSO,NSPO,Success,Success ( JRTI )
+4,41,7 September 2017 14:00,F9 B4 B1040-1,"Kennedy , LC ‑ 39A",Boeing X-37B OTV-5,"4,990 kg (11,000 lb) + OTV payload",LEO,USAF,Success,Success ( LZ ‑ 1 )
+4,42,9 October 2017 12:37,F9 B4 B1041-1,"Vandenberg , SLC ‑ 4E",Iridium NEXT -3 (10 satellites),"9,600 kg (21,200 lb)",Polar LEO,Iridium Communications,Success,Success ( JRTI )
+4,43,11 October 2017 22:53:00,F9 FT B1031-2,"Kennedy , LC ‑ 39A",SES-11 / EchoStar 105,"5,400 kg (11,900 lb)",GTO,SES S.A. EchoStar,Success,Success ( OCISLY )
+4,44,30 October 2017 19:34,F9 B4 B1042-1,"Kennedy , LC ‑ 39A",Koreasat 5A,"3,500 kg (7,700 lb)",GTO,KT Corporation,Success,Success ( OCISLY )
+4,45,15 December 2017 15:36,F9 FT B1035-2,"Cape Canaveral , SLC ‑ 40",SpaceX CRS-13 ( Dragon C108.2 ),"2,205 kg (4,861 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,Success ( LZ ‑ 1 )
+4,46,23 December 2017 01:27,F9 FT B1036-2,"Vandenberg , SLC ‑ 4E",Iridium NEXT -4 (10 satellites),"9,600 kg (21,200 lb)",Polar LEO,Iridium Communications,Success,Controlled (ocean)
+5,47,8 January 2018 01:00,F9 B4 B1043-1,"Cape Canaveral , SLC ‑ 40",Zuma,Classified,LEO,Unspecified U.S. government agency,Success,Success ( LZ ‑ 1 )
+5,48,31 January 2018 21:25,F9 FT B1032-2,"Cape Canaveral , SLC ‑ 40",GovSat-1 (SES-16),"4,230 kg (9,330 lb)",GTO,SES,Success,Controlled (ocean)
+5,FH 1,6 February 2018 20:45,Falcon Heavy B1033 (core),"Kennedy , LC ‑ 39A",Elon Musk's Tesla Roadster,"~ 1,250 kg (2,760 lb)",Heliocentric 0.99–1.67 AU (close to Mars transfer orbit ),SpaceX,Success,Failure ( OCISLY )
+5,49,22 February 2018 14:17,F9 FT B1038-2,"Vandenberg , SLC ‑ 4E",Paz,"2,150 kg (4,740 lb)",SSO,Hisdesat exactEarth,Success,No attempt
+5,50,6 March 2018 05:33,F9 B4 B1044-1,"Cape Canaveral , SLC ‑ 40",Hispasat 30W-6 PODSat,"6,092 kg (13,431 lb)",GTO,Hispasat NovaWurks,Success,Controlled (ocean)
+5,51,30 March 2018 14:14,F9 B4 B1041-2,"Vandenberg , SLC ‑ 4E",Iridium NEXT -5 (10 satellites),"9,600 kg (21,200 lb)",Polar LEO,Iridium Communications,Success,No attempt
+5,52,2 April 2018 20:30,F9 B4 B1039-2,"Cape Canaveral , SLC ‑ 40",SpaceX CRS-14 (Dragon C110.2),"2,647 kg (5,836 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,No attempt
+5,53,18 April 2018 22:51,F9 B4 B1045-1,"Cape Canaveral , SLC ‑ 40",Transiting Exoplanet Survey Satellite (TESS),362 kg (798 lb),HEO for P/2 orbit,NASA ( LSP ),Success,Success ( OCISLY )
+5,54,11 May 2018 20:14,F9 B5 B1046-1,"Kennedy , LC ‑ 39A",Bangabandhu-1,"3,600 kg (7,900 lb)",GTO,Thales-Alenia / BTRC,Success,Success ( OCISLY )
+5,55,22 May 2018 19:47,F9 B4 B1043-2,"Vandenberg , SLC ‑ 4E",Iridium NEXT -6 (5 satellites) GRACE-FO × 2,"6,460 kg (14,240 lb)",Polar LEO,Iridium Communications GFZ • NASA,Success,No attempt
+5,56,4 June 2018 04:45,F9 B4 B1040-2,"Cape Canaveral , SLC ‑ 40",SES-12,"5,384 kg (11,870 lb)",GTO,SES,Success,No attempt
+5,57,29 June 2018 09:42,F9 B4 B1045-2,"Cape Canaveral , SLC ‑ 40",SpaceX CRS-15 (Dragon C111.2),"2,697 kg (5,946 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,No attempt
+5,58,22 July 2018 05:50,F9 B5 B1047-1,"Cape Canaveral , SLC ‑ 40",Telstar 19V,"7,075 kg (15,598 lb)",GTO,Telesat,Success,Success ( OCISLY )
+5,59,25 July 2018 11:39,F9 B5 B1048-1,"Vandenberg , SLC ‑ 4E",Iridium NEXT -7 (10 satellites),"9,600 kg (21,200 lb)",Polar LEO,Iridium Communications,Success,Success ( JRTI )
+5,60,7 August 2018 05:18,F9 B5 B1046-2,"Cape Canaveral , SLC ‑ 40",Merah Putih (formerly Telkom-4),"5,800 kg (12,800 lb)",GTO,Telkom Indonesia,Success,Success ( OCISLY )
+5,61,10 September 2018 04:45,F9 B5 B1049-1,"Cape Canaveral , SLC ‑ 40",Telstar 18V / Apstar -5C,"7,060 kg (15,560 lb)",GTO,Telesat,Success,Success ( OCISLY )
+5,62,8 October 2018 02:22,F9 B5 B1048-2,"Vandenberg , SLC ‑ 4E",SAOCOM 1A,"3,000 kg (6,600 lb)",SSO,CONAE,Success,Success ( LZ ‑ 4 )
+5,63,15 November 2018 20:46,F9 B5 B1047-2,"Kennedy , LC ‑ 39A",Es'hail 2,"5,300 kg (11,700 lb)",GTO,Es'hailSat,Success,Success ( OCISLY )
+5,64,3 December 2018 18:34:05,F9 B5 B1046-3,"Vandenberg , SLC ‑ 4E",SSO-A ( SmallSat Express ) (SHERPA),"~ 4,000 kg (8,800 lb)",SSO,Spaceflight Industries,Success,Success ( JRTI )
+5,65,5 December 2018 18:16,F9 B5 B1050,"Cape Canaveral , SLC ‑ 40",SpaceX CRS-16 (Dragon C112.2),"2,500 kg (5,500 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,Failure ( LZ ‑ 1 )
+5,66,23 December 2018 13:51,F9 B5 B1054,"Cape Canaveral , SLC ‑ 40",GPS III - 01 ( Vespucci ),"4,400 kg (9,700 lb)",MEO,USAF,Success,No attempt
+6,67,11 January 2019 15:31,F9 B5 B1049-2,"Vandenberg , SLC ‑ 4E",Iridium NEXT -8 (10 satellites),"9,600 kg (21,200 lb)",Polar LEO,Iridium Communications,Success,Success ( JRTI )
+6,68,22 February 2019 01:45,F9 B5 B1048-3,"Cape Canaveral , SLC ‑ 40",Nusantara Satu (PSN-6) Beresheet Moon lander S5,"4,850 kg (10,690 lb)",GTO,PSN SpaceIL / IAI Air Force Research,Success,Success ( OCISLY )
+6,69,2 March 2019 07:49,F9 B5 B1051-1,"Kennedy , LC ‑ 39A",Crew Dragon Demo-1 (Dragon C204),"12,055 kg (26,577 lb)",LEO ( ISS ),NASA ( CCD ),Success,Success ( OCISLY )
+6,FH 2,11 April 2019 22:35,FH B5 B1055 (core),"Kennedy , LC ‑ 39A",Arabsat-6A,"6,465 kg (14,253 lb)",GTO,Arabsat,Success,Partial failure ( OCISLY )
+6,70,4 May 2019 06:48,F9 B5 B1056-1,"Cape Canaveral , SLC ‑ 40",SpaceX CRS-17 (Dragon C113.2),"2,495 kg (5,501 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,Success ( OCISLY )
+6,71,24 May 2019 02:30,F9 B5 B1049-3,"Cape Canaveral , SLC ‑ 40",Starlink : v0.9 launch (60 satellites),"13,620 kg (30,030 lb)",LEO,SpaceX,Success,Success ( OCISLY )
+6,72,12 June 2019 14:17,F9 B5 B1051-2,"Vandenberg , SLC ‑ 4E",RADARSAT Constellation (3 satellites),"4,200 kg (9,300 lb)",SSO,Canadian Space Agency (CSA),Success,Success ( LZ ‑ 4 )
+6,FH 3,25 June 2019 06:30,FH B5 B1057 (core),"Kennedy , LC ‑ 39A",Space Test Program Flight 2 (STP-2),"3,700 kg (8,200 lb)",LEO / MEO,USAF,Success,Failure ( OCISLY )
+6,73,25 July 2019 22:01,F9 B5 B1056-2,"Cape Canaveral , SLC ‑ 40",SpaceX CRS-18 ( Dragon C108.3 ),"2,268 kg (5,000 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,Success ( LZ ‑ 1 )
+6,74,6 August 2019 23:23,F9 B5 B1047-3,"Cape Canaveral , SLC ‑ 40",AMOS-17,"6,500 kg (14,300 lb)",GTO,Spacecom,Success,No attempt
+6,75,11 November 2019 14:56,F9 B5 B1048-4,"Cape Canaveral , SLC ‑ 40",Starlink : Launch 1 (60 satellites),"15,600 kg (34,400 lb)",LEO,SpaceX,Success,Success ( OCISLY )
+6,76,5 December 2019 17:29,F9 B5 B1059-1,"Cape Canaveral , SLC ‑ 40",SpaceX CRS-19 (Dragon C106.3),"2,617 kg (5,769 lb) (excl. Dragon mass)",LEO ( ISS ),NASA ( CRS ),Success,Success ( OCISLY )
+6,77,17 December 2019 00:10,F9 B5 B1056-3,"Cape Canaveral , SLC ‑ 40",JCSat-18 / Kacific 1,"6,956 kg (15,335 lb)",GTO,Sky Perfect JSAT Kacific 1,Success,Success ( OCISLY )
