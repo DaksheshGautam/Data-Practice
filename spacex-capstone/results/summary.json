@@ -1,0 +1,280 @@
+{
+  "ml": {
+    "best_model": "SVM",
+    "confusion_matrix": [
+      [
+        4,
+        2
+      ],
+      [
+        3,
+        9
+      ]
+    ],
+    "test_size": 18,
+    "train_size": 72,
+    "baseline_test": 0.6666666666666666,
+    "temporal_accuracy": 0.7777777777777778,
+    "temporal_baseline": 0.8333333333333334,
+    "test_indices": [
+      50,
+      16,
+      20,
+      12,
+      14,
+      43,
+      19,
+      21,
+      17,
+      75,
+      57,
+      81,
+      76,
+      24,
+      88,
+      55,
+      10,
+      38
+    ]
+  },
+  "dash": {
+    "best_site": "KSC LC-39A",
+    "stats": [
+      {
+        "Launch Site": "CCAFS LC-40",
+        "sum": 7,
+        "count": 26,
+        "mean": 0.2692307692307692
+      },
+      {
+        "Launch Site": "CCAFS SLC-40",
+        "sum": 3,
+        "count": 7,
+        "mean": 0.42857142857142855
+      },
+      {
+        "Launch Site": "KSC LC-39A",
+        "sum": 10,
+        "count": 13,
+        "mean": 0.7692307692307693
+      },
+      {
+        "Launch Site": "VAFB SLC-4E",
+        "sum": 4,
+        "count": 10,
+        "mean": 0.4
+      }
+    ]
+  },
+  "sql": {
+    "01_unique_sites": [
+      {
+        "Launch_Site": "CCAFS LC-40"
+      },
+      {
+        "Launch_Site": "CCAFS SLC-40"
+      },
+      {
+        "Launch_Site": "KSC LC-39A"
+      },
+      {
+        "Launch_Site": "VAFB SLC-4E"
+      }
+    ],
+    "02_cca_records": [
+      {
+        "Date": "2010-06-04",
+        "Booster_Version": "F9 v1.0  B0003",
+        "Launch_Site": "CCAFS LC-40"
+      },
+      {
+        "Date": "2010-12-08",
+        "Booster_Version": "F9 v1.0  B0004",
+        "Launch_Site": "CCAFS LC-40"
+      },
+      {
+        "Date": "2012-05-22",
+        "Booster_Version": "F9 v1.0  B0005",
+        "Launch_Site": "CCAFS LC-40"
+      },
+      {
+        "Date": "2012-10-08",
+        "Booster_Version": "F9 v1.0  B0006",
+        "Launch_Site": "CCAFS LC-40"
+      },
+      {
+        "Date": "2013-03-01",
+        "Booster_Version": "F9 v1.0  B0007",
+        "Launch_Site": "CCAFS LC-40"
+      }
+    ],
+    "03_nasa_payload": [
+      {
+        "TotalPayloadKg": 107010
+      }
+    ],
+    "04_v11_average": [
+      {
+        "AveragePayloadKg": 2928.4
+      }
+    ],
+    "05_first_ground": [
+      {
+        "FirstGroundLanding": "2015-12-22"
+      }
+    ],
+    "06_drone_payload": [
+      {
+        "Date": "2016-05-06",
+        "Booster_Version": "F9 FT B1022",
+        "PAYLOAD_MASS__KG_": 4696
+      },
+      {
+        "Date": "2016-08-14",
+        "Booster_Version": "F9 FT B1026",
+        "PAYLOAD_MASS__KG_": 4600
+      },
+      {
+        "Date": "2017-03-30",
+        "Booster_Version": "F9 FT  B1021.2",
+        "PAYLOAD_MASS__KG_": 5300
+      },
+      {
+        "Date": "2017-10-11",
+        "Booster_Version": "F9 FT  B1031.2",
+        "PAYLOAD_MASS__KG_": 5200
+      }
+    ],
+    "07_mission_outcomes": [
+      {
+        "Mission_Outcome": "Failure (in flight)",
+        "Launches": 1
+      },
+      {
+        "Mission_Outcome": "Success",
+        "Launches": 99
+      },
+      {
+        "Mission_Outcome": "Success (payload status unclear)",
+        "Launches": 1
+      }
+    ],
+    "08_max_payload": [
+      {
+        "Date": "2019-11-11",
+        "Booster_Version": "F9 B5 B1048.4",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Date": "2020-01-07",
+        "Booster_Version": "F9 B5 B1049.4",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Date": "2020-01-29",
+        "Booster_Version": "F9 B5 B1051.3",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Date": "2020-02-17",
+        "Booster_Version": "F9 B5 B1056.4",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Date": "2020-03-18",
+        "Booster_Version": "F9 B5 B1048.5",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Date": "2020-04-22",
+        "Booster_Version": "F9 B5 B1051.4",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Date": "2020-06-04",
+        "Booster_Version": "F9 B5 B1049.5",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Date": "2020-09-03",
+        "Booster_Version": "F9 B5 B1060.2",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Date": "2020-10-06",
+        "Booster_Version": "F9 B5 B1058.3",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Date": "2020-10-18",
+        "Booster_Version": "F9 B5 B1051.6",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Date": "2020-10-24",
+        "Booster_Version": "F9 B5 B1060.3",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Date": "2020-11-25",
+        "Booster_Version": "F9 B5 B1049.7",
+        "PAYLOAD_MASS__KG_": 15600
+      }
+    ],
+    "09_2015_failures": [
+      {
+        "Date": "2015-01-10",
+        "Booster_Version": "F9 v1.1 B1012",
+        "Launch_Site": "CCAFS LC-40"
+      },
+      {
+        "Date": "2015-04-14",
+        "Booster_Version": "F9 v1.1 B1015",
+        "Launch_Site": "CCAFS LC-40"
+      }
+    ],
+    "10_rank_outcomes": [
+      {
+        "Landing_Outcome": "No attempt",
+        "Launches": 10
+      },
+      {
+        "Landing_Outcome": "Success (drone ship)",
+        "Launches": 5
+      },
+      {
+        "Landing_Outcome": "Failure (drone ship)",
+        "Launches": 5
+      },
+      {
+        "Landing_Outcome": "Success (ground pad)",
+        "Launches": 3
+      },
+      {
+        "Landing_Outcome": "Controlled (ocean)",
+        "Launches": 3
+      },
+      {
+        "Landing_Outcome": "Uncontrolled (ocean)",
+        "Launches": 2
+      },
+      {
+        "Landing_Outcome": "Failure (parachute)",
+        "Launches": 2
+      },
+      {
+        "Landing_Outcome": "Precluded (drone ship)",
+        "Launches": 1
+      }
+    ]
+  },
+  "distances": {
+    "Road": 0.195,
+    "Coastline": 0.856,
+    "Railway": 0.0
+  },
+  "n": 90,
+  "successes": 60,
+  "date_min": "2010-06-04",
+  "date_max": "2020-11-05"
+}
