@@ -1,0 +1,14 @@
+pandas>=2.2
+numpy>=2.0
+scikit-learn>=1.5
+matplotlib>=3.9
+beautifulsoup4>=4.12
+lxml>=5.0
+folium>=0.18
+dash>=3.0
+plotly>=6.0
+nbformat>=5.10
+nbclient>=0.10
+ipykernel>=6.29
+reportlab>=4.2
+requests>=2.32
